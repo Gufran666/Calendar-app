@@ -19,7 +19,7 @@ A simple calendar app with event management and dark mode.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/calendar-app.git
+   git clone https://github.com/Gufran666/Calendar-app.git
    ```
 2. Navigate to the project directory:
    ```sh
